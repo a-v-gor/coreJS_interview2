@@ -18,23 +18,32 @@
 
 - ### Functional Scope
 
-  - Know global scope and functional scope
-  - Know variables visibility areas
-  - Understand nested scopes and able work with them
+  - [Know global scope and functional scope](./matherials/Введение%20в%20JavaScript%20scope%20_%20Frontend%20Stuff.mhtml)
+
+  - [Know variables visibility areas](./matherials/Устаревшее%20ключевое%20слово%20_var_.mhtml)
+
+  - [Understand nested scopes and able work with them](./matherials/Область%20видимости%20переменных,%20замыкание.mhtml)
 
 - ### Functions Parameters / Arguments
 
-  - Know how to define Function parameters
-  - Know difference between parameters passing by value and by reference
-  - Know how to handle dynamic amount of Function parameters
+  - [Know how to define Function parameters](./matherials/Параметры%20функций%20JavaScript.mhtml)
+
+  - [Know difference between parameters passing by value and by reference](./matherials/JavaScript%20_%20Передача%20параметров%20по%20значению%20и%20по%20ссылке.mhtml)
+
+  - [Know how to handle dynamic amount of Function parameters](./matherials/How%20to%20write%20a%20function%20that%20accepts%20any%20number%20of%20arguments%20in%20JavaScript%20_%20by%20Jayanth%20babu%20_%20Level%20Up%20Coding.mhtml)
 
 - ### Closures Advanced
 
-  - Context (lexical environment)
+  - [Context (lexical environment)](./matherials/Explaining%20JavaScript's%20Execution%20Context%20and%20Stack.mhtml)
+  
   - Understand function creation context (lexical environment)
+
   - Be able to explain difference between scope and context
+
   - Inner/outer lexical environment
+
   - Understand lexical environment traversing mechanism
+  
   - Understand connection between function and lexical environment
 
 - ### ECMAScript Intermediate
